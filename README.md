@@ -13,11 +13,13 @@
 </div>
 
 ###
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
 <div align="left">
+  <h2>  Languages and Frameworks </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
@@ -29,9 +31,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/eududu.exe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+<a href="https://www.instagram.com/eududu.exe"> 
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</a>
 </div>
 
 ###
