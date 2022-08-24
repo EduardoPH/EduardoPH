@@ -6,11 +6,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=eduardoph" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
+###
+<div align="left">
+  <h3 align="left">Profile views </h3>
   <img src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
 </div>
-
-###
 
 ###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
