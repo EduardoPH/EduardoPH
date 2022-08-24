@@ -8,7 +8,7 @@
 
 ###
 <div align="left">
-  <h3 align="left">Profile views </h3>
+  <h2 align="left">Profile views </h2>
   <img src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
 </div>
 
