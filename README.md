@@ -6,8 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=nightowl&hide_border=false&?username=EduardoPH" height="150" alt="languages graph"  />
 </div>
 
-![Anurag's GitHub stats](https://edustats-eduardoph.vercel.app/api?username=EduardoPH&hide=contribs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false,prs)
-
 ###
 <div align="left">
   <h2 align="left">Profile views </h2>
