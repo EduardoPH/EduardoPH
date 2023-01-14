@@ -39,7 +39,6 @@
 
 ###
 
-<!--START_SECTION:activity-->
 
 
 <br clear="both">
