@@ -18,6 +18,7 @@
 
 ###
 
+
 <div align="left">
   <h2>  Languages and Frameworks </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -37,6 +38,9 @@
 </div>
 
 ###
+
+<!--START_SECTION:activity-->
+
 
 <br clear="both">
 
