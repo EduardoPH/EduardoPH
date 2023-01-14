@@ -3,7 +3,7 @@
 ###
 <div align="left">
   <img src="https://edustats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=EduardoPH" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=nightowl&hide_border=false&username=EduardoPH" height="150" alt="languages graph"  />
+  <img src="https://edustats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=nightowl&hide_border=false&username=EduardoPH" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -31,11 +31,11 @@
 
 ###
 
-<!--START_SECTION:activity--> 
-1. 🎉 Merged PR [#1](https://github.com/EduardoPH/MovieStreaming/pull/1) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
-2. 💪 Opened PR [#1](https://github.com/EduardoPH/MovieStreaming/pull/1) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
-3. 💪 Opened PR [#1](https://github.com/MickaelZs/tcc-original/pull/1) in [MickaelZs/tcc-original](https://github.com/MickaelZs/tcc-original)
-<!--END_SECTION:activity-->
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+  <!--START_SECTION:activity--> 
+</details>
 
 <div align="left">
 <a href="https://www.instagram.com/eududu.exe"> 
