@@ -32,6 +32,12 @@
 ###
 
   <!--START_SECTION:activity--> 
+1. 🎉 Merged PR [#2](https://github.com/EduardoPH/MovieStreaming/pull/2) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
+2. 💪 Opened PR [#2](https://github.com/EduardoPH/MovieStreaming/pull/2) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
+3. 🎉 Merged PR [#1](https://github.com/EduardoPH/MovieStreaming/pull/1) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
+4. 💪 Opened PR [#1](https://github.com/EduardoPH/MovieStreaming/pull/1) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
+5. 💪 Opened PR [#1](https://github.com/MickaelZs/tcc-original/pull/1) in [MickaelZs/tcc-original](https://github.com/MickaelZs/tcc-original)
+<!--END_SECTION:activity-->
 
 <div align="left">
 <a href="https://www.instagram.com/eududu.exe"> 
