@@ -32,11 +32,11 @@
 ###
 
   <!--START_SECTION:activity--> 
-1. 🎉 Merged PR [#5](https://github.com/EduardoPH/MovieStreaming/pull/5) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
-2. 💪 Opened PR [#5](https://github.com/EduardoPH/MovieStreaming/pull/5) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
-3. 🎉 Merged PR [#3](https://github.com/EduardoPH/MovieStreaming/pull/3) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
-4. 🎉 Merged PR [#4](https://github.com/EduardoPH/MovieStreaming/pull/4) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
-5. 💪 Opened PR [#4](https://github.com/EduardoPH/MovieStreaming/pull/4) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
+1. 🎉 Merged PR [#6](https://github.com/EduardoPH/MovieStreaming/pull/6) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
+2. 🎉 Merged PR [#5](https://github.com/EduardoPH/MovieStreaming/pull/5) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
+3. 💪 Opened PR [#5](https://github.com/EduardoPH/MovieStreaming/pull/5) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
+4. 🎉 Merged PR [#3](https://github.com/EduardoPH/MovieStreaming/pull/3) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
+5. 🎉 Merged PR [#4](https://github.com/EduardoPH/MovieStreaming/pull/4) in [EduardoPH/MovieStreaming](https://github.com/EduardoPH/MovieStreaming)
 <!--END_SECTION:activity-->
 
 <div align="left">
