@@ -3,7 +3,7 @@
 ###
 <div align="left">
   <img src="https://edustats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=eduardoph" height="150" alt="stats graph"  />
-  <img src="https://edustats.vercel.app/top-langs?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=eduardoph" height="150" alt="stats graph"  />
+  <img src="https://edustats.vercel.app/api/top-langs?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=eduardoph" height="150" alt="stats graph"  />
 </div>
 
 ###
