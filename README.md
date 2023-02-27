@@ -1,6 +1,6 @@
 <h2 align="left" >Hi 👋! My name is Eduardo and I'm a developer for love!! </h2>
 
-![Profile views](https://gpvc.arturio.dev/andreinaoliveira)
+![Profile views](https://gpvc.arturio.dev/eduardoph)
 
 ###
 <div align="left">
