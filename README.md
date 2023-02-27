@@ -31,7 +31,7 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
+<img align="" src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
 
 ###
 
