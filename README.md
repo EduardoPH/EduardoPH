@@ -1,7 +1,7 @@
-<h2 align="left" >Hi 👋! My name is Eduardo and I'm a developer for love!! <div align="center">
-  <h2 align="center">Profile views </h2>
+<div align="center">
+  <h2 align="center" display="flex">Hi 👋! My name is Eduardo and I'm a developer for love!!  </h2>
   <img src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
-</div> </h2>
+</div> 
 
 <div align="center">
   <a href="https://github.com/eduardoph" target="_blank">
