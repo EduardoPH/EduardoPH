@@ -1,6 +1,6 @@
 <div align="center">
-  <h2 align="center" color="#000000">Hi 👋! My name is Eduardo and I'm a developer for love!!  </h2>
-  <img src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
+  <h2 align="left"> Hi 👋! My name is Eduardo and I'm a developer for love!!  </h2>
+  <img align="right" src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
 </div> 
 
 <div align="center">
