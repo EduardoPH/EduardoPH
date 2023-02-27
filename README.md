@@ -1,4 +1,8 @@
-<h2 align="left" >Hi 👋! My name is Eduardo and I'm a developer for love!! </h2>
+<h2 align="left" >Hi 👋! My name is Eduardo and I'm a developer for love!! <div align="center">
+  <h2 align="center">Profile views </h2>
+  <img src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
+</div> </h2>
+
 <div align="center">
   <a href="https://github.com/eduardoph" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -26,10 +30,9 @@
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
   </a>
 </div>
-###
-
 
 ###
+
 <div align="center">
   <h2 align="center">Profile views </h2>
   <img src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
