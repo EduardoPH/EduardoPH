@@ -30,8 +30,8 @@
 
 
 ###
-<div align="left">
-  <h2 align="left">Profile views </h2>
+<div align="center">
+  <h2 align="center">Profile views </h2>
   <img src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
 </div>
 
