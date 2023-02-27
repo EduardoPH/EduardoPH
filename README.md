@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center" style="color:green">Hi 👋! My name is Eduardo and I'm a developer for love!!  </h2>
+  <h2 align="center" color="green">Hi 👋! My name is Eduardo and I'm a developer for love!!  </h2>
   <img src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
 </div> 
 
