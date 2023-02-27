@@ -93,7 +93,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreinaoliveira&layout=compact&langs_count=7&theme=synthwave"/>
   -->
-<div align="left">
+<div align="center">
   <img src="https://edustats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=eduardoph" height="150" alt="stats graph"  />
   <img src="https://edustats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=nightowl&hide_border=false&username=eduardoph" height="150" alt="languages graph"  />
 </div>
