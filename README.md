@@ -47,6 +47,8 @@
 
 ###
 
+ <img src="https://github-profile-trophy.vercel.app/?username=eduardoph&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
+
 
 
 <br clear="both">
