@@ -1,7 +1,5 @@
 <h2 align="left" >Hi 👋! My name is Eduardo and I'm a developer for love!! </h2>
 
-![Profile views](https://gpvc.arturio.dev/eduardoph)
-
 ###
 <div align="left">
   <img src="https://edustats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=eduardoph" height="150" alt="stats graph"  />
