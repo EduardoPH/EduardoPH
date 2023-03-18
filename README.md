@@ -29,11 +29,6 @@
   </a>
 </div>
 
-###
-
-<img align="right" src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
-
-###
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/88357842?s=400&u=b9054125913c5032f58830682b1734881a80ac13&v=4"  />
 
