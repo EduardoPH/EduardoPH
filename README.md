@@ -32,8 +32,6 @@
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/88357842?s=400&u=b9054125913c5032f58830682b1734881a80ac13&v=4"  />
 
- <img src="https://github-profile-trophy.vercel.app/?username=eduardoph&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
-
 ## ⭐️ Hard Skills
 <div align="center">
   <a href="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" target="_blank"><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
