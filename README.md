@@ -39,6 +39,7 @@
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 </p>
 
 <h2 align="left">Bancos de Dados</h2>
@@ -60,6 +61,12 @@
   <a href="#"><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+</p>
+
+<h2 align="left">Protocolos</h2>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/WebSocket-%238000FF.svg?style=for-the-badge&logo=websocket&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTTP-%23000000.svg?style=for-the-badge&logo=http&logoColor=white"></a>
 </p>
 
 
