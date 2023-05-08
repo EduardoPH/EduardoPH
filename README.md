@@ -46,6 +46,7 @@
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 
 <h2 align="left">Frameworks e Bibliotecas</h2>
