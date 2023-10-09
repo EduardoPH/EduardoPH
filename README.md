@@ -13,16 +13,18 @@
   <img src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/88357842?s=400&u=b9054125913c5032f58830682b1734881a80ac13&v=4" />
-
-###
 
   <div align="left">
 <a href="https://www.instagram.com/eududu_mendes"> 
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </a>
+
+
+###
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/88357842?s=400&u=b9054125913c5032f58830682b1734881a80ac13&v=4" />
+
+###
 
 
 
