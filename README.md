@@ -12,11 +12,6 @@
 </div>
 
 ###
-<div align="left">
-  <h2 align="left">Profile views </h2>
-  <img src="https://profile-counter.glitch.me/eduardoph/count.svg?"  />
-</div>
-
 
   <div align="left">
 <a href="https://www.instagram.com/eududu_mendes"> 
